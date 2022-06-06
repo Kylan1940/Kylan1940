@@ -7,11 +7,6 @@
 |---|
 | [Official Website](https://kylan1940.github.io) |
 | [Official Youtube](https://youtube.com/c/Kylan1940) |
+| [Official Instagram](https://www.instagram.com/nx.kyln) |
+| [Official Twitter](https://www.twitter.com/itz____kylan) |
 | [Donate (Indonesia)](https://trakteer.id/Kylan1940/tip) |
-| [Donate (Paypal)](https://paypal.me/Kylan3290) |
-
-## 🗃️ Official Repositories
-|REPO|
-|---|
-| [Linock Bot Discord](https://github.com/Kylan1940/LinockBot) |
-| [HealAndFeed PMMP](https://github.com/Kylan1940/HealAndFeed) |
