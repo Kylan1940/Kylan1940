@@ -10,5 +10,4 @@
 
 ## 💰 DONATE
 <script type='text/javascript' src='https://cdn.trakteer.id/js/embed/trbtn.min.js'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#1b1b1b','https://trakteer.id/Kylan1940/tip','https://cdn.trakteer.id/images/embed/trbtn-icon.png','40');trbtn.draw(trbtnId);})();</script> 
-    <br>
     <a href='https://ko-fi.com/P5P1DB75T' target='_blank'><img height='45' style='border:0px;height:45px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
