@@ -1,5 +1,5 @@
 ## ✨ GITHUB STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kylan1940&show_icons=false&theme=shadow_red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kylan1940&show_icons=false&theme=shadow_red&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kylan1940&hide_progress=true&theme=solarized-light)
 
 ## 🔗 LINKS
