@@ -9,4 +9,4 @@
  <a href="https://web.kylan1940.site"><img src="https://web.kylan1940.site/img/icon/website.svg"></a>
 
 ## 💰 DONATE
-<a href="https://ko-fi.com/Kylan1940"><img src="https://web.kylan1940.site/img/icon/ko-fi. svg"></a> 
+<a href="https://ko-fi.com/Kylan1940"><img src="https://web.kylan1940.site/img/icon/ko-fi.svg"></a> 
