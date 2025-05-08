@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-%23E4405F.svg?logo=Google&logoColor=white)](https://instagram.com/nx.kyln)
+[![Website](https://img.shields.io/badge/Website-%23E4405F.svg?logo=Google&logoColor=white)](https://kylan1940.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nx.kyln) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Kylan1940) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kylanlive1940@gmail.com) 
 
 # 💻 Tech Stack:
