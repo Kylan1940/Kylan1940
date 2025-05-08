@@ -1,12 +1,25 @@
-## ✨ GITHUB STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kylan1940&show_icons=false&theme=merko&include_all_commits=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kylan1940&hide_progress=true&theme=solarized-light)
 
-## 🔗 CONNECT WITH ME
-<a href="https://www.youtube.com/c/Kylan1940"><img src="https://kylan1940.netlify.app/img/icon/youtube.svg"></a>
-<a href="https://www.instagram.com/c/nx.kyln"><img src="https://kylan1940.netlify.app/img/icon/instagram.svg"></a>
-<a href="https://www.github.com/c/Kylan1940"><img src="https://kylan1940.netlify.app/img/icon/github.svg"></a>
- <a href="https://web.kylan1940.site"><img src="https://kylan1940.netlify.app/img/icon/website.svg"></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nx.kyln) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Kylan1940) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kylanlive1940@gmail.com) 
 
-## 💰 DONATE
-<a href="https://ko-fi.com/Kylan1940"><img src="https://kylan1940.netlify.app/img/icon/ko-fi.svg"></a> 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kylan1940&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kylan1940&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kylan1940&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kylan1940&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Kylan1940&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Kylan1940) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
