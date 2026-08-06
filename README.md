@@ -8,7 +8,7 @@
 # 📊 GitHub Stats:
 ![Kylan1940's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Kylan1940&show_icons=true&theme=radical)<br/>
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kylan1940&layout=compact&theme=radical)<br/>
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Kylan1940&theme=radical)](https://github.com/Kylan1940/github-readme-stats-fast
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Kylan1940&theme=radical)](https://github.com/Kylan1940/github-readme-stats-fast)
 
 ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Kylan1940)
