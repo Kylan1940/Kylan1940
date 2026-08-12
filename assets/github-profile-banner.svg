@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="400" viewBox="0 0 1500 400">
+  <defs>
+    <filter id="rough">
+      <feTurbulence type="fractalNoise" baseFrequency="0.015" numOctaves="2" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.5"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1500" height="400" fill="#17181c"/>
+
+  <!-- Main handwritten-style panel -->
+  <g filter="url(#rough)">
+    <rect x="80" y="105" width="1340" height="250" rx="55"
+          fill="#3bc653" stroke="#111111" stroke-width="5"/>
+
+    <!-- Rough outer border -->
+    <path d="M103 108
+             C80 126 75 157 80 192
+             L83 316
+             C87 346 112 361 151 363
+             L1358 363
+             C1396 361 1418 345 1420 314
+             L1417 155
+             C1413 123 1390 108 1355 107
+             Z"
+          fill="none" stroke="#d8d8d8" stroke-width="3"
+          stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Extra sketch lines -->
+    <path d="M94 113 C210 101 310 113 420 110
+             M482 111 C650 106 770 112 920 110
+             M1000 109 C1140 112 1260 105 1375 113"
+          fill="none" stroke="#111111" stroke-width="3"
+          stroke-linecap="round"/>
+
+    <path d="M95 351 C250 365 390 354 540 358
+             M590 357 C760 351 920 362 1070 357
+             M1120 358 C1230 352 1320 363 1400 351"
+          fill="none" stroke="#d8d8d8" stroke-width="2.5"
+          stroke-linecap="round"/>
+  </g>
+
+  <!-- Text -->
+  <text x="750" y="260"
+        text-anchor="middle"
+        font-family="Comic Sans MS, Comic Sans, cursive"
+        font-size="70"
+        font-weight="600"
+        fill="#050505"
+        letter-spacing="1">
+    👋 Hello World, I'm Kylan1940!
+  </text>
+</svg>
