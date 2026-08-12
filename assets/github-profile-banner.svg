@@ -6,9 +6,6 @@
     </filter>
   </defs>
 
-  <!-- Background -->
-  <rect width="1500" height="400" fill="#17181c"/>
-
   <!-- Main handwritten-style panel -->
   <g filter="url(#rough)">
     <rect x="80" y="105" width="1340" height="250" rx="55"
