@@ -1,6 +1,4 @@
-# Hello! 👋
-
-Also known as **Kylan1940**.
+<img src="./assets/github-profile-banner.svg" alt="Hello World, I'm Kylan1940!" width="100%" /> 
 
 I'm an Informatics Engineering student interested in web development, software development, and building practical projects.
 
