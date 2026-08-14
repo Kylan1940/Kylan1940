@@ -47,5 +47,5 @@ Outside of development, I've spent several years running an online community and
 
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kylan1940&layout=compact&theme=github_dark)
 
-![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Kylan1940&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kylan1940&theme=dark&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
